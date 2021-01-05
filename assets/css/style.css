@@ -391,7 +391,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #c3fadc;
+  color: #a1cfb6;
   line-height: 44px;
 }
 
@@ -455,7 +455,7 @@ nav ul li a {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #c3fadc;
+  color: #a1cfb6;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -497,11 +497,11 @@ nav ul li a {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #c3fadc;
+  color: #a1cfb6;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover, #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #cab89f;
+  color: #a1cfb6;
 }
 
 #portfolio .portfolio-item .portfolio-info .details-link {
